@@ -12,6 +12,12 @@ ln -s Package\ Control.sublime-settings ~/.config/sublime-text-3/Packages/User/P
 ln -s GitGutter.sublime-settings ~/.config/sublime-text-3/Packages/User/GitGutter.sublime-settings
 ```
 
+or by running the setup script:
+
+```
+sh setup.sh
+```
+
 ##Packages to install
 
 1. Theme - Sodarized
