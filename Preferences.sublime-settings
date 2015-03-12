@@ -1,27 +1,27 @@
 {
-	// Sets the colors used within the text area
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
-	"theme": "Sodarized Dark 3.sublime-theme",
+  // Sets the colors used within the text area
+  "color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+  "theme": "Sodarized Dark 3.sublime-theme",
 
-	// Note that the font_face and font_size are overriden in the platform
+  // Note that the font_face and font_size are overriden in the platform
   // specific settings file, for example, "Preferences (Linux).sublime-settings".
   // Because of this, setting them here will have no effect: you must set them
   // in your User File Preferences.
-	"font_face": "Ubuntu Mono",
-	"font_size": 12,
+  "font_face": "Ubuntu Mono",
+  "font_size": 12,
 
-	// Valid options are "no_bold", "no_italic", "no_antialias", "gray_antialias",
-    // "subpixel_antialias", "no_round" (OS X only), "gdi" (Windows only) and
-    // "directwrite" (Windows only)
-	"font_options": ["subpixel_antialias"],
+  // Valid options are "no_bold", "no_italic", "no_antialias", "gray_antialias",
+  // "subpixel_antialias", "no_round" (OS X only), "gdi" (Windows only) and
+  // "directwrite" (Windows only)
+  "font_options": ["subpixel_antialias"],
 
 
-	// Set to true to insert spaces when tab is pressed
+  // Set to true to insert spaces when tab is pressed
   "translate_tabs_to_spaces": true,
 
   // Always visualise the viewport on the minimap, as oppossed to only
   // showing it on mouse over
-  "always_show_minimap_viewport": true,
+  "always_show_minimap_viewport": false,
 
   // If enabled, will highlight any line with a caret
   "highlight_line": true,
